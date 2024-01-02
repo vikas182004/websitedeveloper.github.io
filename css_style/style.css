@@ -1,0 +1,246 @@
+body{
+    padding:0;
+    margin:0;
+    
+}
+/* strat top coding bar */
+.top_container{
+    background: #000000;
+    width:100%;
+    height:44px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px; 
+}
+.text-ha{
+    text-decoration: none;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-weight:200;
+    margin-top:17px;
+    
+}
+.text-shop
+{
+    text-decoration: none;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-weight:500;
+}
+/* end top doding bar */
+/* strat header top nav bar */
+.header_nav{
+    border-bottom:1px solid #cccc;
+}
+.navbar-nav #input{
+    position:relative;
+    width:220px;
+    border:none;
+    outline:none;
+    margin-top:12px;
+    padding:5px;
+    background:#F5F5F5;
+
+   
+}
+.brand-navbbbb{
+    font-size:30px;
+    font-weight:600;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* End header top nav bar */
+.items-col3{
+    border-right:1px solid #cccc;
+    font-family: 'Poppins', sans-serif;
+
+}
+.items-col3 p{
+    padding-top:16px;
+    margin:0;
+}
+/* end coding header */
+/* strat section coding */
+.secound-col-12{
+    margin-top:65px;
+}
+.secound-col-12 .today{
+    display:flex;
+    gap:18px;
+    
+    
+}
+.secound-col-12 .today button{
+    background:#DB4444;
+    width:22px;
+    height:45px;
+    border:none;
+    border-radius:5px;
+}
+.secound-col-12 .today p{
+    margin-top:2px;
+    font-size:25px;
+    font-family: 'Poppins', sans-serif;
+    color:#DB4444;
+
+}
+.secound-col-12 .flash_selesh{
+    display:flex;
+    margin-top:20px;
+    align-items: center;
+    justify-content:space-between;
+}
+.secound-col-12 .flash_selesh div{
+    display: flex;
+    align-items: center;
+    gap:40px;
+}
+.secound-col-12 .flash_selesh .month h1{
+    display: flex;
+    width:45px;
+    height:45px;
+    float:left;
+    margin-bottom:29px;
+    margin-left:-90px;
+    border-radius: 50%;
+    padding:10px;
+    text-align:center;
+
+    
+}
+.secound-col-12 .flash_selesh .month p{
+    color:black;
+    margin-bottom:70px;
+    font-family:  'Poppins', sans-serif;
+    font-weight:500;
+
+}
+.secound-col-12 .fa-icon button{
+    border-radius:50%;
+    width:50px;
+    height:50px;
+    background:#DB4444;
+    border:none;
+    outline:none;
+    color:white;
+    text-align:center;
+    
+}
+.main{
+    border-bottom:1px solid #cccc;
+    padding-bottom:40px;
+
+}
+.mainsection .thard-items{
+    padding-top:10px;
+    display:flex;
+    gap:30px;
+    overflow: hidden;
+}
+
+.mainsection .thard-items .text .reating{
+    display:flex;
+    gap:15px;
+
+}
+.mainsection .thard-items .text p{
+    padding:0;
+    margin:0; 
+    font-weight:400;
+    font-family: 'Poppins', sans-serif;
+    padding-top:12px;
+}
+.mainsection .thard-items .text .reating .retingster i{
+    color:rgb(241, 131, 5);
+}
+/* section borswer coding */
+.broswer_icon{    
+    display:flex;
+    gap:20px;
+    padding-top:36px;
+    border-bottom:1px solid #cccc;
+    padding-bottom:40px;
+}
+.broswer_icon .img{
+    width:200px;
+    height:180px;
+    border:1px solid #cccc;
+    border-radius:5px;
+}
+.broswer_icon .img #images{
+    margin-top:50px;
+    margin-left:70px;
+    margin-right:20px;
+}
+.broswer_icon .img p{
+    margin-left:50px;
+    font-family:  'Poppins', sans-serif;
+    font-weight:400;
+}
+.broswer_icon .img #phone{
+    margin-left:70px;
+    font-family:  'Poppins', sans-serif;
+    font-weight:400;
+}
+/* strat best selling scetion coding */
+ .best-seling-btn{
+    padding-left:40px;
+    padding-right:40px;
+    border-radius:5px;
+    padding-top:7px;
+    padding-bottom:7px;
+    background:#DB4444;
+    color:white;
+    font-family:'Poppins', sans-serif;
+    font-weight:300;
+ }
+ .sellign_images{
+    height:400px;
+    padding-top:35px;
+    display:flex;
+    gap:35px;
+ }
+ .sellign_images .imagess{
+   width:300px;
+    
+ }
+ .sellign_images .imagess img{
+    width:600px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #ster-icon p{
+    font-family:'Poppins', sans-serif;
+    font-weight:300;
+    margin-bottom:0;
+ }
+ #ster-icon button{
+    border-radius: 50%;
+    width:30px;
+    height:30px;
+    border:none;
+    outline:none;
+    background:#DB4444;
+ }
+ #ster-icon .ster{
+    display:flex;
+    gap:25px;
+ }
+ #ster-icon .ster i{
+    color:rgb(232, 153, 6);
+ }
